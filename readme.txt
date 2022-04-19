@@ -4,5 +4,4 @@ Git has a mutable index called stage.
 modfiy by main.
 modfiy by feature.
 
-
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
