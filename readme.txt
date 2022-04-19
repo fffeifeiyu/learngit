@@ -8,3 +8,5 @@ Creating a new branch is quick and simple.
 
 
 test no-off ing!
+
+把“Git is free software ...”改为“Git is a free software ...”
